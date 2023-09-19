@@ -1,0 +1,13 @@
+body{
+    background-color: #282c34;
+    color:white;
+}
+
+.App{
+    text-align: center;
+}
+
+ul{
+    list-style:none;
+    padding-left:0px;
+    }
